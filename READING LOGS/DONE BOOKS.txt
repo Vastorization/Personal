@@ -1,7 +1,0 @@
-Accelerated C++
-Richard_P_Feynman-Surely_Youre_Joking_Mr_Feynman_v5
-c++ primer, 5th edition
-Code Complete, 2nd edition
-Peopleware
-The Manga Guide to Databases.
-Pragmatic Programmer.
