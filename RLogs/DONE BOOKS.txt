@@ -5,3 +5,5 @@ Code Complete, 2nd edition
 Peopleware
 The Manga Guide to Databases.
 Pragmatic Programmer.
+Dive into python
+Dive into python3
