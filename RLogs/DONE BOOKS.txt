@@ -7,4 +7,4 @@ The Manga Guide to Databases.
 Pragmatic Programmer.
 Dive into python
 Dive into python3
-Ruby on Rails3 Tutorial
+Ruby on Rails 3 Tutorial
